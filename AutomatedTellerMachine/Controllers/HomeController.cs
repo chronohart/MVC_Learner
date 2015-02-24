@@ -15,19 +15,29 @@ namespace AutomatedTellerMachine.Controllers
         }
 
         // GET /home/about
+        [ActionName("about-this-page")]
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
 
-            return View();
+            return View("About");
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.TheMessage = "Having trouble? Send us a message.";
 
             return View();
         }
+
+        [HttpPost]
+        public ActionResult Contact(string strMessage)
+        {
+            // TODO: send message to HQ
+            ViewBag.TheMessage = "Thanks, we got your message.";
+
+            return View();
+        } 
 
         public ActionResult Foo()
         {

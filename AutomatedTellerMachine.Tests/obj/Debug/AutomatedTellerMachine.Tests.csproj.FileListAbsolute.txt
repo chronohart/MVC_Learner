@@ -40,3 +40,45 @@ C:\Users\David\documents\visual studio 2013\Projects\AutomatedTellerMachine\Auto
 C:\Users\David\documents\visual studio 2013\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Debug\AutomatedTellerMachine.Tests.csprojResolveAssemblyReference.cache
 C:\Users\David\documents\visual studio 2013\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Debug\AutomatedTellerMachine.Tests.dll
 C:\Users\David\documents\visual studio 2013\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Debug\AutomatedTellerMachine.Tests.pdb
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.Tests.dll.config
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.Tests.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.Tests.pdb
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Razor.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Owin.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\EntityFramework.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.pdb
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Razor.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\EntityFramework.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\obj\Debug\AutomatedTellerMachine.Tests.csprojResolveAssemblyReference.cache
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\obj\Debug\AutomatedTellerMachine.Tests.dll
+E:\Programming\MVC_Learner\AutomatedTellerMachine.Tests\obj\Debug\AutomatedTellerMachine.Tests.pdb
